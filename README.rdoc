@@ -1,5 +1,5 @@
 this is my first blog post application using ruby on rails.
 
-my facebook id <a href="https://www.facebook.com/sai1243"></a>.
+my facebook id <a href=" https://www.facebook.com/sai1243 ">sai ch</a>.
 
 I am very enthuasist to learn ruby on rails in quickly.
